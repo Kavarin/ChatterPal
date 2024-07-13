@@ -1,0 +1,33 @@
+print("                 Welcome To MimuMimu Your Virtual Friend!                                ")
+print("Hello Iam MimuMimu,Let's be friends!")
+name = input("First, What is your name? ")  
+print("Hello", name)
+print("We Will Be The best friends!")  
+age = input(name + ", How old are you?")  
+print("Thats Great", name)
+favfood = input(name + ", What is your favorite food?")
+print(favfood, "Yum Yum! Sound delicious")
+favsweet = input(name + ", What is your favorite sweet?")
+print(favsweet, "Yum Yum Sound very sweety!!")
+favgame = input(name + ", What is your favorite video game?")
+print(favgame, "Wow I wish I can play it soon!!")
+coun = input(name + ", What Countries did you travel to?")
+print(coun, "Wow I wish I can visit it like you!!")
+device = input(name + ", Do you have a device like laptop, tablet, or phone?")
+print(device, "Hmm... Sounds Intresting to have a device like this!!")
+cartoon = input(name + ", What Cartoon do you like to watch on TV?")
+print(cartoon, "Sound Fun To watch this cartoon on tv!!")
+ggame = input(name + ", What game do you like with your friends in the garden?")
+print(ggame, "Sounds Fun to play it in the garden with friends!!")
+fsub = input(name, "What is the favorite subject you like?")
+print(fsub,"Wow What an intresting subject you love!!")
+input("Have You Enjoyed using MemuMemu Today? ")
+print("Good!! Now If it bad don't worry we will make the experience more better!! ")
+print(name,"Now We Came to the end of the journey!! don't forget to try us again next time!!!!")
+
+
+print("© This Project is copyrighted.")
+
+print("Made By Basil Shabib❤")
+
+
