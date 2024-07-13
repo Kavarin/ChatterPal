@@ -10,4 +10,5 @@ How to run MemuMemu?
 
 1.Open an online Python IDE website
 2.Copy SoftwareCode then paste it in the IDE's website 
-3.Your done :)
+3.The code procces will be running right in the terminal
+4.your all done :)
